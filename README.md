@@ -8,3 +8,7 @@ Notes:
 Possible improvements:
 -To this date, it does not read any other imput beside standard. Reading from files would be good too.
 -It does not capitalize the personal pronoun letter 'I' if it is not placed right after a period.
+
+After downloading the Source code, you can just compile it with gcc, and test it.
+
+Att: SINX =)
